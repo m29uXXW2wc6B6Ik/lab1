@@ -1,0 +1,7 @@
+D:\university\3_kurs\new_oop\lab1\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\university\3_kurs\new_oop\lab1\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\university\3_kurs\new_oop\lab1\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\university\3_kurs\new_oop\lab1\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\university\3_kurs\new_oop\lab1\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\university\3_kurs\new_oop\lab1\UnitTestProject\bin\Debug\lab1.exe
+D:\university\3_kurs\new_oop\lab1\UnitTestProject\bin\Debug\lab1.pdb
