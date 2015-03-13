@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1", "lab1\lab1.csproj", "{7642895D-E6B6-4622-81CE-534A4B81FB59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stelmashok.Generic", "lab1\Stelmashok.Generic.csproj", "{7642895D-E6B6-4622-81CE-534A4B81FB59}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{4176405E-AE9B-4E40-89AC-56ABBADCA29C}"
 EndProject

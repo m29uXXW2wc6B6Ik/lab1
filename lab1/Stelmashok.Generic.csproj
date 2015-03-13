@@ -7,8 +7,8 @@
     <ProjectGuid>{7642895D-E6B6-4622-81CE-534A4B81FB59}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>lab1</RootNamespace>
-    <AssemblyName>lab1</AssemblyName>
+    <RootNamespace>Stelmashok.Generic</RootNamespace>
+    <AssemblyName>Stelmashok.Generic</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,14 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cov and Contr\IGeneric2.cs" />
-    <Compile Include="Cov and Contr\IGeneric1.cs" />
-    <Compile Include="Base\BaseModel.cs" />
-    <Compile Include="Base\ChildModel.cs" />
-    <Compile Include="Generic\Generic11.cs" />
-    <Compile Include="Generic\Generic12.cs" />
-    <Compile Include="Generic\Generic21.cs" />
-    <Compile Include="Generic\Generic22.cs" />
+    <Compile Include="Cov and Contr\IGenericCovariant.cs" />
+    <Compile Include="Cov and Contr\IGenericContravariant.cs" />
+    <Compile Include="BaseModels\BaseModel.cs">
+      <ExcludeFromStyleCop>False</ExcludeFromStyleCop>
+    </Compile>
+    <Compile Include="BaseModels\ChildModel.cs" />
+    <Compile Include="Generic\ContravariantBaseModel.cs" />
+    <Compile Include="Generic\ContravariantChildModel.cs" />
+    <Compile Include="Generic\CovariantBaseModel.cs" />
+    <Compile Include="Generic\CovariantChildModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

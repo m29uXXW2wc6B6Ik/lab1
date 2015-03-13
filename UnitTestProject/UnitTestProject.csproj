@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\lab1\lab1.csproj">
+    <ProjectReference Include="..\lab1\Stelmashok.Generic.csproj">
       <Project>{7642895d-e6b6-4622-81ce-534a4b81fb59}</Project>
-      <Name>lab1</Name>
+      <Name>Stelmashok.Generic</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

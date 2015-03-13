@@ -1,0 +1,6 @@
+D:\university\3_kurs\new_oop\new\lab1\lab1\bin\Debug\Stelmashok.Generic.exe.config
+D:\university\3_kurs\new_oop\new\lab1\lab1\bin\Debug\Stelmashok.Generic.exe
+D:\university\3_kurs\new_oop\new\lab1\lab1\bin\Debug\Stelmashok.Generic.pdb
+D:\university\3_kurs\new_oop\new\lab1\lab1\obj\Debug\Stelmashok.Generic.csprojResolveAssemblyReference.cache
+D:\university\3_kurs\new_oop\new\lab1\lab1\obj\Debug\Stelmashok.Generic.exe
+D:\university\3_kurs\new_oop\new\lab1\lab1\obj\Debug\Stelmashok.Generic.pdb
