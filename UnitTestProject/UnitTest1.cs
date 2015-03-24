@@ -7,6 +7,9 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
+/// <summary>
+/// The UnitTestProject namespace.
+/// </summary>
 namespace UnitTestProject
 {
     using System;
@@ -17,9 +20,15 @@ namespace UnitTestProject
     using Stelmashok.Generic.Cov_and_Contr;
     using Stelmashok.Generic.Generic;
 
+    /// <summary>
+    /// Class UnitTest1.
+    /// </summary>
     [TestClass]
     public class UnitTest1
     {
+        /// <summary>
+        /// Tests the method1.
+        /// </summary>
         [TestMethod]
         public void TestMethod1()
         {
@@ -28,7 +37,10 @@ namespace UnitTestProject
             contravariantChildModel = contravariantBaseModel;
             contravariantBaseModel = (IGenericContravariant<BaseModel>)contravariantChildModel;
         }
- 
+
+        /// <summary>
+        /// Tests the method2.
+        /// </summary>
         [TestMethod]
         public void TestMethod2()
         {
