@@ -44,7 +44,7 @@
     <Compile Include="Cov and Contr\IGenericCovariant.cs" />
     <Compile Include="Cov and Contr\IGenericContravariant.cs" />
     <Compile Include="BaseModels\BaseModel.cs">
-      <ExcludeFromStyleCop>False</ExcludeFromStyleCop>
+      <ExcludeFromStyleCop>True</ExcludeFromStyleCop>
     </Compile>
     <Compile Include="BaseModels\ChildModel.cs" />
     <Compile Include="Generic\ContravariantBaseModel.cs" />
